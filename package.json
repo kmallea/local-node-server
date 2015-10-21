@@ -1,0 +1,24 @@
+{
+  "name": "local-node-server",
+  "version": "0.0.1",
+  "description": "A stand alone node HTTP server to serve static files",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmallea/local-node-server.git"
+  },
+  "author": "Khary Mallea <KharyMallea@gmail.com> (http://khary.co/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmallea/local-node-server/issues"
+  },
+  "homepage": "https://github.com/kmallea/local-node-server",
+  "dependencies": {
+    "connect": "^3.4.0",
+    "serve-static": "^1.10.0"
+  }
+}

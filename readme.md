@@ -21,3 +21,10 @@ Once you've cloned the repo all you need to launch the server is to run the foll
  This will launch the server and allow you to browse to your static html files residing inside the "_www" folder
  
 You can browse to your file by going to http://localhost:3000/index.html
+
+
+## Bower Usage
+
+```npm
+	bower install local-node-server
+ ```

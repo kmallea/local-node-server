@@ -1,0 +1,19 @@
+{
+  "name": "local-node-server",
+  "version": "0.0.1",
+  "homepage": "https://github.com/kmallea/local-node-server",
+  "authors": [
+    "kmallea <kharymallea@gmail.com>"
+  ],
+  "description": "A stand alone node HTTP server to serve static files",
+  "main": "server.js",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
